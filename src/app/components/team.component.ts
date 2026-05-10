@@ -168,49 +168,49 @@ export class TeamComponent {
       {
       name: 'Dr. Thomas Kitavi',
       role: 'DE',
-      title: 'Domain Expert',
+      title: 'DOMAIN EXPERT',
       image: 'assets/images/tom.jpg',
       socials: {}
     },
     {
       name: 'John William Muga',
       role: 'CEO',
-      title: 'Chief Executive Officer',
+      title: 'CHIEF EXECUTIVE OFFICER',
       image: 'assets/images/william.jpg',
       socials: {}
     },
     {
       name: 'Yusupha Ceesay',
       role: 'CTO',
-      title: 'Chief Technical Officer',
+      title: 'CHIEF TECHNOLOGY OFFICER',
       image: 'assets/images/yusupha.jpeg',
       socials: {}
     },
     {
       name: 'Edna Mugo',
       role: 'LSE',
-      title: 'Lead Software Engineer',
+      title: 'LEAD SOFTWARE ENGINEER',
       image: 'assets/images/edna-img.png',
       socials: {}
     },
     {
       name: 'Khanyisile Tapiwa',
       role: 'LAE',
-      title: 'Lead AI Engineer',
+      title: 'LEAD AI ENGINEER',
       image: 'assets/images/khanyi.jpeg',
       socials: {}
     },
     {
       name: 'Lorraine Chepkemoi',
       role: 'PM',
-      title: 'Project Manager',
+      title: 'PROJECT MANAGER',
       image: 'assets/images/lorraine-img.jpg',
       socials: {}
     },
     {
       name: 'Simeon Krah',
       role: 'RL',
-      title: 'Research Lead',
+      title: 'RESEARCH SCIENTIST',
       image: 'assets/images/simeon.jpeg',
       socials: {}
     }
